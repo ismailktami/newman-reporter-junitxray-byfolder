@@ -1,3 +1,4 @@
+# https://www.linkedin.com/pulse/boostez-vos-tests-e2e-api-avec-un-rapport-newman-personlis%C3%A9-ktami-5l2fe/
 # newman-reporter-junitxray-byfolder
 Customized Newman JUnit report to industrialize the reporting of E2E test results organized by folders composed of multiple requests.
 
